@@ -164,8 +164,10 @@
 | Ресурс | Ссылка |
 |--------|--------|
 | Декрет о визе Digital Nomad (Gazzetta Ufficiale) | [gazzettaufficiale.it](https://www.gazzettaufficiale.it/eli/id/2024/04/04/24A01716/sg) |
-| FAQ на integrazionemigranti | [integrazionemigranti.gov.it](https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/3835) |
+| FAQ на integrazionemigranti (основной) | [integrazionemigranti.gov.it/id/3835](https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/3835) |
+| Разъяснения на integrazionemigranti | [integrazionemigranti.gov.it/id/3736](https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/3736/Nomadi-digitali-e-lavoratori-da-remoto-ecco-le-regole) |
 | Консульство Парижа (списки документов) | [consparigi.esteri.it](https://consparigi.esteri.it/it/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visto-per-nomadi-digitali-e-lavoratori-da-remoto/) |
+| Консульство Нью-Йорка (DN visa page) | [consnewyork.esteri.it](https://consnewyork.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/visas-to-enter-italy/digital-nomad-remote-worker-visa/) |
 
 > [!NOTE]
 > 🟡 Несмотря на запрет конвертации, есть интересный кейс: в Генуе при подаче на ВНЖ по основанию Digital Nomad выдали пермессо с мотивом Blue Card. Это нетипично и вряд ли воспроизводимо, но показывает, что практика ещё формируется.
