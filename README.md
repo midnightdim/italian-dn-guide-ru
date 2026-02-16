@@ -1,10 +1,21 @@
-# Italian Digital Nomad Visa Guide 🇮🇹
+# 🇮🇹 Виза Digital Nomad в Италию — Гайд на русском
 
-A comprehensive guide to obtaining the Italian Digital Nomad Visa, based on official decrees and real-life community experiences.
+Подробный гайд по получению визы цифрового кочевника в Италию: от сбора документов до получения ВНЖ.
 
-## Content
+## Источники
 
-The guide is located in the [`guide/`](guide/) directory:
+Гайд составлен на основании:
+- [Декрета в Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2024/04/04/24A01716/sg) (апрель 2024)
+- [FAQ на integrazionemigranti.gov.it](https://integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/3835)
+- Реальных кейсов из чата [Digital Nomad Italy](https://t.me/nomadvisaitaly) в Telegram
+
+## Замечания и дополнения
+
+Нашли неточность, устаревшую информацию или хотите дополнить гайд? **Оформляйте [Issue](../../issues) прямо на GitHub** — так проще всего отследить и обработать замечания.
+
+## Содержание
+
+Гайд находится в директории [`guide/`](guide/):
 
 - **[Overview](guide/00-overview.md)** — Roadmap and key figures
 - **[Requirements](guide/01-01-requirements.md)** — Who is eligible (Income, Qualification, etc.)
